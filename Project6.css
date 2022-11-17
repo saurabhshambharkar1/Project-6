@@ -1,0 +1,71 @@
+<style >
+        #parent{
+            height: 200px;
+            width: 499px;
+            border: 1px solid;
+            margin: 0 auto;
+            margin-top: 50px;
+            box-shadow: 12px 10px 20px black;
+        }
+
+        #heading{
+            height: 30px;
+            width: 499px;
+            /* border: 1px solid; */
+            display: flex;
+            background-color: navy;
+            color: white;
+            font-size: x-large;
+        }
+
+        .head{
+            width: 1250px;
+            /* border: 1px solid; */
+            
+        }
+
+        #subject{
+            height: 169px;
+            width: 125px;
+            /* border: 1px solid; */
+            font-size: x-large;
+            
+        }
+
+        .sub{
+            height: 55px;
+            border: 1px solid;
+            text-align: center;
+            
+            
+        }
+
+        
+        #lower{
+            display: flex;
+
+        }
+
+        #grade{
+            /* border: 1px solid; */
+            width: 370px;
+            display: flex;
+            flex-wrap: wrap;
+            font-size: larger;
+            text-align: center;
+        }
+        .grd{
+            height: 26px;
+            width: 121px;
+            border: 1px solid;
+            
+            
+        }
+
+        #pink{
+            background-color: pink;
+        }
+
+        #cherry{
+            background-color: rgb(229, 52, 52);
+        }
